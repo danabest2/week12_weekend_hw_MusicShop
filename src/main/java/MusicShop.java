@@ -1,15 +1,12 @@
-import behaviours.ISell;
-import items.MusicSheet;
-
 import java.util.ArrayList;
-import behaviours.ISell;
+
 import instruments.Guitar;
 import items.Item;
 
 public class MusicShop {
 
     private ArrayList<Item> stock1;
-    private ArrayList<Guitar> stock2;
+    public ArrayList<Guitar> stock2;
 
     public MusicShop(){
         stock1 = new ArrayList<Item>();
@@ -21,6 +18,7 @@ public class MusicShop {
     }
 
     public void addInstrument(Guitar guitar) {
+        
         this.stock2.add(guitar);
     }
 
@@ -30,7 +28,13 @@ public class MusicShop {
     }
 
     public int getInstrumentCount() {
+        
         return this.stock2.size();
+    }
+//not sure if the below is fully correct// not sure they were expecting one single stock//
+
+    public Guitar RemoveInstrument(Guitar guitar) {
+        return this.stock2.remove(0);
     }
 }
 

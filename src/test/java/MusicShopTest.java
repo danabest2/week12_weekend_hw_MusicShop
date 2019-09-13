@@ -47,4 +47,11 @@ public class MusicShopTest {
         assertEquals(2, musicShop.getInstrumentCount());
 
     }
+
+    @Test
+    public void canRemoveInstrument(){
+        musicShop.addInstrument(guitar);
+        musicShop.RemoveInstrument(guitar);
+        assertEquals(1, musicShop.stock2.size());
+    }
 }
