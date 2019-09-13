@@ -1,6 +1,8 @@
 package items;
 
-public abstract class Item {
+import behaviours.ISell;
+
+public abstract class Item implements ISell {
     private String name;
 
     protected Item(String name) {
@@ -10,4 +12,5 @@ public abstract class Item {
     public String getName() {
         return name;
     }
+
 }

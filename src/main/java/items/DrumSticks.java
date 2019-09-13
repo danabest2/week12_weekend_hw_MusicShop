@@ -6,4 +6,13 @@ public class DrumSticks extends Item {
         super(name);
     }
 
+    public double defaultBuyingPrice() {
+        return 10;
+    }
+
+    public double priceForSelling() {
+        return defaultBuyingPrice() * 1.2;
+    }
+
+
 }

@@ -20,6 +20,14 @@ public class DrumSticksTest {
         assertEquals("Yamaha", drumSticks.getName());
     }
 
+    @Test
+    public void hasDefaultBuyingPrice(){
+        assertEquals(10, drumSticks.defaultBuyingPrice(), 0.01);
+    }
 
+    @Test
+    public void hasPriceForSelling(){
+        assertEquals(12, drumSticks.priceForSelling(), 0.01);
+    }
 
 }

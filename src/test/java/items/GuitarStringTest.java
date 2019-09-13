@@ -18,5 +18,14 @@ public class GuitarStringTest {
     public void hasName(){
         assertEquals("ClassA", guitarString.getName());
     }
+    @Test
+    public void hasDefaultBuyingPrice(){
+        assertEquals(10, guitarString.defaultBuyingPrice(), 0.01);
+    }
+
+    @Test
+    public void hasPriceForSelling(){
+        assertEquals(12, guitarString.priceForSelling(), 0.01);
+    }
 
 }

@@ -41,4 +41,14 @@ public class GuitarTest {
     public void hasGuitarType(){
         assertEquals(GuitarType.YAMAHA, guitar.getGuitarType());
     }
+
+    @Test
+    public void hasDefaultBuyingPrice(){
+        assertEquals(20, guitar.defaultBuyingPrice(),0.01);
+    }
+
+    @Test
+    public void hasPriceForSelling(){
+        assertEquals(26, guitar.priceForSelling(), 0.01);
+    }
 }

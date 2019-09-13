@@ -17,4 +17,14 @@ public class MusicSheetTest {
     public void hasName(){
         assertEquals("ClassB", musicSheet.getName());
     }
+
+    @Test
+    public void hasDefaultBuyingPrice(){
+        assertEquals(10, musicSheet.defaultBuyingPrice(), 0.01);
+    }
+
+    @Test
+    public void hasPriceForSelling(){
+        assertEquals(12, musicSheet.priceForSelling(), 0.01);
+    }
 }
