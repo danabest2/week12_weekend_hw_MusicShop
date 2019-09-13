@@ -28,7 +28,7 @@ public class TrumpetTest {
 
     @Test
     public void hasColour(){
-        assertEquals("black", trumpet.getColour());
+        assertEquals("silver", trumpet.getColour());
     }
     @Test
     public void hasNoOfValves(){

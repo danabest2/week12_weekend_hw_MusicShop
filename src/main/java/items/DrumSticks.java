@@ -1,4 +1,9 @@
 package items;
 
-public class DrumSticks {
+public class DrumSticks extends Item {
+
+    public DrumSticks(String name){
+        super(name);
+    }
+
 }

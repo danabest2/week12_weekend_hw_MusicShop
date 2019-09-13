@@ -5,21 +5,16 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-
-public class DrumSticksTest {
-
-    DrumSticks drumSticks;
+public class MusicSheetTest {
+    MusicSheet musicSheet;
 
     @Before
     public void setUp(){
-        drumSticks = new DrumSticks("Yamaha");
+        musicSheet = new MusicSheet("ClassB");
     }
 
     @Test
     public void hasName(){
-        assertEquals("Yamaha", drumSticks.getName());
+        assertEquals("ClassB", musicSheet.getName());
     }
-
-
-
 }

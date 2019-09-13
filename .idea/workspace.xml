@@ -16,6 +16,23 @@
       <change afterPath="$PROJECT_DIR$/../../day_4/FantasyLab/src/test/java/entities/WizardTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../day_4/FantasyLab/src/test/java/rooms/RoomTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/MusicShop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/items/DrumSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/items/DrumSticks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/items/GuitarString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/items/GuitarString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/items/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/items/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/items/SheetMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/items/SheetMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/instruments/TrumpetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/instruments/TrumpetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/instruments/Instrument.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/instruments/Instrument.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/items/DrumSticks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/items/DrumSticks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/items/GuitarString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/items/GuitarString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/items/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/items/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/items/SheetMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/items/SheetMusic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/instruments/TrumpetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/instruments/TrumpetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/items/DrumSticksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/items/DrumSticksTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,14 +47,14 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49489796">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Instrument.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+                <state relative-caret-position="375">
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
                   <folding>
                     <element signature="e#327#328#0" expanded="true" />
                     <element signature="e#354#355#0" expanded="true" />
@@ -51,15 +68,12 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Guitar.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/instruments/GuitarTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+                <state relative-caret-position="122">
+                  <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
                   <folding>
-                    <element signature="e#322#323#0" expanded="true" />
-                    <element signature="e#356#357#0" expanded="true" />
-                    <element signature="e#509#510#0" expanded="true" />
-                    <element signature="e#542#543#0" expanded="true" />
+                    <element signature="imports" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -68,8 +82,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/instruments/SaxophoneTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="391">
-                  <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+                <state relative-caret-position="405">
+                  <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#327#328#0" expanded="true" />
@@ -86,34 +100,81 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Trumpet.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/items/DrumSticks.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="165">
-                  <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+                <state relative-caret-position="135">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <element signature="e#91#92#0" expanded="true" />
+                    <element signature="e#111#112#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/enums/SaxophoneType.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/items/GuitarString.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+                <state relative-caret-position="75">
+                  <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+                  <folding>
+                    <element signature="e#99#100#0" expanded="true" />
+                    <element signature="e#126#127#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/items/SheetMusic.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                  <folding>
+                    <element signature="e#89#90#0" expanded="true" />
+                    <element signature="e#116#117#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="315">
+                  <caret line="21" lean-forward="true" selection-start-line="9" selection-end-line="21" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#144#145#0" expanded="true" />
+                    <element signature="e#197#198#0" expanded="true" />
+                    <element signature="e#297#298#0" expanded="true" />
+                    <element signature="e#357#358#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/instruments/Trumpet.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="330">
+                  <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                    <element signature="e#142#143#0" expanded="true" />
+                    <element signature="e#199#200#0" expanded="true" />
+                    <element signature="e#306#307#0" expanded="true" />
+                    <element signature="e#361#362#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/weekend_homework_music_shop.md">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="375">
-                  <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-                  <folding>
-                    <element signature="e#341#342#0" expanded="true" />
-                    <element signature="e#399#400#0" expanded="true" />
-                    <element signature="e#439#440#0" expanded="true" />
-                    <element signature="e#495#496#0" expanded="true" />
-                  </folding>
+                  <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
                 </state>
               </provider>
             </entry>
@@ -121,8 +182,8 @@
           <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/test/java/instruments/PianoTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="466">
-                  <caret line="33" column="5" selection-start-line="9" selection-end-line="33" selection-end-column="5" />
+                <state relative-caret-position="136">
+                  <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
                   <folding>
                     <element signature="imports" expanded="true" />
                     <element signature="e#312#313#0" expanded="true" />
@@ -140,74 +201,56 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/enums/PianoType.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="30">
-                  <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Piano.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-                  <folding>
-                    <element signature="e#279#280#0" expanded="true" />
-                    <element signature="e#310#311#0" expanded="true" />
-                    <element signature="e#460#461#0" expanded="true" />
-                    <element signature="e#492#493#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
         </leaf>
       </split-first>
       <split-second>
         <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Instrument.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/instruments/PianoTest.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/items/Item.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="465">
-                  <caret line="33" column="5" lean-forward="true" selection-start-line="10" selection-end-line="33" selection-end-column="5" />
+                <state relative-caret-position="195">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
                   <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#454#455#0" expanded="true" />
-                    <element signature="e#512#513#0" expanded="true" />
-                    <element signature="e#552#553#0" expanded="true" />
-                    <element signature="e#608#609#0" expanded="true" />
-                    <element signature="e#654#655#0" expanded="true" />
-                    <element signature="e#684#685#0" expanded="true" />
-                    <element signature="e#752#753#0" expanded="true" />
-                    <element signature="e#782#783#0" expanded="true" />
+                    <element signature="e#103#104#0" expanded="true" />
+                    <element signature="e#135#136#0" expanded="true" />
+                    <element signature="e#166#167#0" expanded="true" />
+                    <element signature="e#193#194#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Saxophone.java">
+            <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Trumpet.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-                  <folding>
-                    <element signature="e#370#371#0" expanded="true" />
-                    <element signature="e#406#407#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="165">
+                  <caret line="13" selection-start-line="13" selection-end-line="13" />
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/instruments/GuitarTest.java">
+            <entry file="file://$PROJECT_DIR$/src/test/java/instruments/TrumpetTest.java">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+                <state relative-caret-position="225">
+                  <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
                   <folding>
                     <element signature="imports" expanded="true" />
+                    <element signature="e#306#307#0" expanded="true" />
+                    <element signature="e#361#362#0" expanded="true" />
+                    <element signature="e#403#404#0" expanded="true" />
+                    <element signature="e#463#464#0" expanded="true" />
+                    <element signature="e#503#504#0" expanded="true" />
+                    <element signature="e#562#563#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -227,12 +270,11 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" />
         <option value="$PROJECT_DIR$/src/main/java/instruments/Guitar.java" />
         <option value="$PROJECT_DIR$/src/main/java/enums/GuitarType.java" />
         <option value="$PROJECT_DIR$/src/main/java/instruments/Trumpet.java" />
@@ -245,6 +287,14 @@
         <option value="$PROJECT_DIR$/src/main/java/instruments/Saxophone.java" />
         <option value="$PROJECT_DIR$/src/test/java/instruments/SaxophoneTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/instruments/Trumpet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/instruments/Instrument.java" />
+        <option value="$PROJECT_DIR$/src/test/java/instruments/TrumpetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/GuitarString.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/SheetMusic.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/DrumSticks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/items/Item.java" />
+        <option value="$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java" />
       </list>
     </option>
   </component>
@@ -257,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="736" />
     <option name="height" value="800" />
@@ -323,6 +373,14 @@
               <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
               <item name="MusicShop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -339,6 +397,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="instruments" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MusicShop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MusicShop" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="items" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,56 +431,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrumpetTest.hasNoOfValves">
-    <configuration name="SaxophoneTest.hasColour" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.MusicSheetTest.hasName">
+    <configuration name="DrumSticksTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MusicShop" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="instruments.*" />
+          <option name="PATTERN" value="items.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="instruments" />
-      <option name="MAIN_CLASS_NAME" value="instruments.SaxophoneTest" />
-      <option name="METHOD_NAME" value="hasColour" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SaxophoneTest.hasMaterial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MusicShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="instruments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="instruments" />
-      <option name="MAIN_CLASS_NAME" value="instruments.SaxophoneTest" />
-      <option name="METHOD_NAME" value="hasMaterial" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SaxophoneTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MusicShop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="instruments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="instruments" />
-      <option name="MAIN_CLASS_NAME" value="instruments.SaxophoneTest" />
+      <option name="PACKAGE_NAME" value="items" />
+      <option name="MAIN_CLASS_NAME" value="items.DrumSticksTest" />
       <option name="METHOD_NAME" value="hasName" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SaxophoneTest.hasType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GuitarStringTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="items" />
+      <option name="MAIN_CLASS_NAME" value="items.GuitarStringTest" />
+      <option name="METHOD_NAME" value="hasName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicSheetTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MusicShop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="items.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="items" />
+      <option name="MAIN_CLASS_NAME" value="items.MusicSheetTest" />
+      <option name="METHOD_NAME" value="hasName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrumpetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="MusicShop" />
       <extension name="coverage">
         <pattern>
@@ -423,9 +489,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="instruments" />
-      <option name="MAIN_CLASS_NAME" value="instruments.SaxophoneTest" />
-      <option name="METHOD_NAME" value="hasType" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="instruments.TrumpetTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -448,11 +513,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MusicSheetTest.hasName" />
+        <item itemvalue="JUnit.GuitarStringTest.hasName" />
+        <item itemvalue="JUnit.DrumSticksTest.hasName" />
+        <item itemvalue="JUnit.TrumpetTest" />
         <item itemvalue="JUnit.TrumpetTest.hasNoOfValves" />
-        <item itemvalue="JUnit.SaxophoneTest.hasType" />
-        <item itemvalue="JUnit.SaxophoneTest.hasColour" />
-        <item itemvalue="JUnit.SaxophoneTest.hasMaterial" />
-        <item itemvalue="JUnit.SaxophoneTest.hasName" />
       </list>
     </recent_temporary>
   </component>
@@ -470,35 +535,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SaxophoneTest_hasColour - 2019.09.13 at 12h 57m 34s.xml">
-      <configuration name="SaxophoneTest.hasColour" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasName - 2019.09.13 at 13h 00m 03s.xml">
-      <configuration name="SaxophoneTest.hasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest - 2019.09.13 at 13h 01m 11s.xml">
-      <configuration name="SaxophoneTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasName - 2019.09.13 at 13h 09m 51s.xml">
-      <configuration name="SaxophoneTest.hasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasColour - 2019.09.13 at 13h 11m 24s.xml">
-      <configuration name="SaxophoneTest.hasColour" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasName - 2019.09.13 at 13h 13m 38s.xml">
-      <configuration name="SaxophoneTest.hasName" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasMaterial - 2019.09.13 at 13h 13m 44s.xml">
-      <configuration name="SaxophoneTest.hasMaterial" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SaxophoneTest_hasColour - 2019.09.13 at 13h 13m 47s.xml">
-      <configuration name="SaxophoneTest.hasColour" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SaxophoneTest_hasColour - 2019.09.13 at 13h 14m 05s.xml">
       <configuration name="SaxophoneTest.hasColour" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SaxophoneTest_hasType - 2019.09.13 at 13h 15m 15s.xml">
       <configuration name="SaxophoneTest.hasType" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrumpetTest_hasNoOfValves - 2019.09.13 at 13h 19m 42s.xml">
+      <configuration name="TrumpetTest.hasNoOfValves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GuitarTest - 2019.09.13 at 13h 49m 13s.xml">
+      <configuration name="GuitarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PianoTest - 2019.09.13 at 13h 49m 25s.xml">
+      <configuration name="PianoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SaxophoneTest_hasName - 2019.09.13 at 13h 50m 02s.xml">
+      <configuration name="SaxophoneTest.hasName" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrumpetTest - 2019.09.13 at 13h 50m 08s.xml">
+      <configuration name="TrumpetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrumpetTest_hasColour - 2019.09.13 at 13h 50m 21s.xml">
+      <configuration name="TrumpetTest.hasColour" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TrumpetTest_hasNoOfValves - 2019.09.13 at 13h 51m 03s.xml">
+      <configuration name="TrumpetTest.hasNoOfValves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DrumSticksTest_hasName - 2019.09.13 at 14h 11m 41s.xml">
+      <configuration name="DrumSticksTest.hasName" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -543,10 +608,10 @@
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="3" visible="true" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -560,6 +625,20 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java</url>
+          <line>17</line>
+          <properties class="items.GuitarStringTest" method="hasName">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -586,59 +665,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/items/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/items/GuitarString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/items/DrumSticks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/items/SheetMusic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/items/SheetMusicTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weekend_homework_music_shop.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -652,7 +682,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Piano.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
           <folding>
             <element signature="e#279#280#0" expanded="true" />
             <element signature="e#310#311#0" expanded="true" />
@@ -676,20 +706,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/GuitarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Guitar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="24" lean-forward="true" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
           <folding>
             <element signature="e#322#323#0" expanded="true" />
             <element signature="e#356#357#0" expanded="true" />
@@ -699,61 +719,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Instrument.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-            <element signature="e#453#454#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="1175" column="53" lean-forward="true" selection-start-line="1175" selection-start-column="53" selection-end-line="1175" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Saxophone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#406#407#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/SaxophoneTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="38" column="1" lean-forward="true" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#385#386#0" expanded="true" />
-            <element signature="e#343#344#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Trumpet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
@@ -771,10 +740,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Saxophone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#370#371#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/GuitarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/instruments/PianoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="33" column="5" selection-start-line="9" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="136">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#312#313#0" expanded="true" />
@@ -791,15 +781,139 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/Trumpet.java">
+    <entry file="file://$PROJECT_DIR$/weekend_homework_music_shop.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/SaxophoneTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
           <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Instrument.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#354#355#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/instruments/Trumpet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/GuitarString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/SheetMusic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#89#90#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/DrumSticks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#111#112#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/instruments/TrumpetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/items/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#103#104#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/items/DrumSticksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="9" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/items/GuitarStringTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#306#307#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
           </folding>
         </state>
       </provider>
