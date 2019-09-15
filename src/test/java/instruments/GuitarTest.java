@@ -12,7 +12,7 @@ public class GuitarTest {
 
     @Before
     public void setUp(){
-        guitar = new Guitar("Maria","plastic","red",
+        guitar = new Guitar("Maria","plastic","red", "brumbrum",
                 7, GuitarType.YAMAHA );
     }
 
@@ -29,7 +29,13 @@ public class GuitarTest {
 
     @Test
     public void hasColour(){
+
         assertEquals("red", guitar.getColour());
+    }
+
+    @Test
+    public void hasSound(){
+        assertEquals("brumbrum", guitar.getSound());
     }
 
     @Test

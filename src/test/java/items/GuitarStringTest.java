@@ -28,4 +28,9 @@ public class GuitarStringTest {
         assertEquals(12, guitarString.priceForSelling(), 0.01);
     }
 
+    @Test
+    public void calcGuitarStringPofit() {
+
+        assertEquals(2, guitarString.getProfit(), 0.01);
+    }
 }

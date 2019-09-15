@@ -13,7 +13,7 @@ public class SaxophoneTest {
     @Before
     public void setUp(){
         saxophone = new Saxophone(
-                "Ben","fiber","yellow", SaxophoneType.Alto);
+                "Ben","fiber","yellow", "truptrup", SaxophoneType.Alto);
     }
 
     @Test
@@ -30,6 +30,11 @@ public class SaxophoneTest {
     @Test
     public void hasColour(){
         assertEquals("yellow", saxophone.getColour());
+    }
+
+    @Test
+    public void hasSound(){
+        assertEquals("truptrup", saxophone.getSound());
     }
 
     @Test

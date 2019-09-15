@@ -13,7 +13,7 @@ public class PianoTest {
 
     @Before
     public void setUp(){
-        piano = new Piano("James","fiber","black",
+        piano = new Piano("James","fiber","black", "mmm",
                 1970, PianoType.Grand );
     }
 
@@ -31,6 +31,11 @@ public class PianoTest {
     @Test
     public void hasColour(){
         assertEquals("black", piano.getColour());
+    }
+
+    @Test
+    public void hasSound(){
+        assertEquals("mmm", piano.getSound());
     }
 
     @Test

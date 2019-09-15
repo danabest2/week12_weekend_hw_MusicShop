@@ -21,8 +21,7 @@ public class MusicShopTest {
     @Before
     public void setUp() throws Exception {
         musicShop = new MusicShop();
-        guitar = new Guitar("CoolWave","fiber","brown",
-                9, GuitarType.FENDER);
+        guitar = new Guitar("CoolWave","fiber","brown", "brumbrum", 9, GuitarType.FENDER);
         drumSticks = new DrumSticks("YAMAHA");
         guitarString = new GuitarString("ClassC");
         musicSheet = new MusicSheet("ClassD");
@@ -54,4 +53,14 @@ public class MusicShopTest {
         musicShop.RemoveInstrument(guitar);
         assertEquals(1, musicShop.stock2.size());
     }
+
+  //  @Test
+  //  public void canCalcItemsProfit(){
+      //  musicShop.addItem(musicSheet);
+       // musicShop.addItem(drumSticks);
+       // musicShop.addItem(guitarString);
+       // assertEquals(6, musicShop.itemsStockProfit());
+   // }
+
+
 }

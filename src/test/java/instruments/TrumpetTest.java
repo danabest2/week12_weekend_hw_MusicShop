@@ -12,7 +12,7 @@ public class TrumpetTest {
 
     @Before
     public void setUp(){
-        trumpet = new Trumpet("Mona","fiber","silver",5);
+        trumpet = new Trumpet("Mona","fiber","silver", "ciuciu",5);
     }
 
     @Test
@@ -29,6 +29,12 @@ public class TrumpetTest {
     @Test
     public void hasColour(){
         assertEquals("silver", trumpet.getColour());
+    }
+
+    @Test
+
+    public void hasSound(){
+        assertEquals("ciuciu", trumpet.getSound());
     }
     @Test
     public void hasNoOfValves(){

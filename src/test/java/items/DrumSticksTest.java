@@ -30,4 +30,10 @@ public class DrumSticksTest {
         assertEquals(12, drumSticks.priceForSelling(), 0.01);
     }
 
+    @Test
+    public void calcDrumStickPofit(){
+
+        assertEquals(2, drumSticks.getProfit(), 0.01);
+    }
+
 }

@@ -27,4 +27,9 @@ public class MusicSheetTest {
     public void hasPriceForSelling(){
         assertEquals(12, musicSheet.priceForSelling(), 0.01);
     }
+    @Test
+
+    public void calcMusicScheetPofit() {
+        assertEquals(2, musicSheet.getProfit(), 0.01);
+    }
 }

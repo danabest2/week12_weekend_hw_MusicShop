@@ -14,6 +14,7 @@ public class MusicShop {
     }
 
     public void addItem(Item item) {
+
         this.stock1.add(item);
     }
 
@@ -36,5 +37,9 @@ public class MusicShop {
     public Guitar RemoveInstrument(Guitar guitar) {
         return this.stock2.remove(0);
     }
+
+
+   // public int itemsStockProfit() {
+   // }
 }
 
